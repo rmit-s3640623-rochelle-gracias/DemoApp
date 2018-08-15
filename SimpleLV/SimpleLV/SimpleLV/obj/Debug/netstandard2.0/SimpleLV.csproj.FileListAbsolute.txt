@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\obj\Debug\netstandard2.0\SimpleLV.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\obj\Debug\netstandard2.0\SimpleLV.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\obj\Debug\netstandard2.0\SimpleLV.AssemblyInfo.cs
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\bin\Debug\netstandard2.0\SimpleLV.deps.json
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\bin\Debug\netstandard2.0\SimpleLV.dll
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\bin\Debug\netstandard2.0\SimpleLV.pdb
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\obj\Debug\netstandard2.0\SimpleLV.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\obj\Debug\netstandard2.0\View\ListOfForms.xaml.g.cs
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\obj\Debug\netstandard2.0\View\ListOfPatients.xaml.g.cs
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\obj\Debug\netstandard2.0\SimpleLV.dll
+C:\Users\hp\source\repos\DemoApp\SimpleLV\SimpleLV\SimpleLV\obj\Debug\netstandard2.0\SimpleLV.pdb
